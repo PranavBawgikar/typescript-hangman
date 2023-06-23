@@ -2,7 +2,10 @@
 
 ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-This project is a Hangman game implemented using TypeScript and built with the Vite development server. It allows players to guess letters to uncover a hidden word before running out of attempts.
+This project is a Hangman game implemented using TypeScript and built with the Vite development server. It allows players to guess letters to uncover a hidden word before running out of attempts.<br><br>
+
+![ts;hangman2](https://github.com/PranavBawgikar/typescript-hangman/assets/102728016/5d8f296b-a297-4911-a35d-80d0dc870163) <br><br>
+![ts;hangman1](https://github.com/PranavBawgikar/typescript-hangman/assets/102728016/4e778836-df2a-48fd-b495-6b5b316df452)
 
 ## Available Scripts
 
